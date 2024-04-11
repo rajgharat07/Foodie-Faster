@@ -1,4 +1,4 @@
-Check Out the Demo [Here](https://foodie-faster-pt01n268n-rajgharat07s-projects.vercel.app/)
+Check Out the Demo [Here](https://foodie-faster.vercel.app/)
 
 >1. **Features**
 * Utilization of Swiggy's live API data to fetch real-time restaurant information
